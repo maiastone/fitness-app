@@ -1,0 +1,170 @@
+body {
+  background-image: radial-gradient(50% 155%, #EEF5DB 54%, #7A9E9F 100%);
+  font-family: Arial-BoldMT;
+}
+
+#icon {
+  height: 25px;
+}
+#track-runner {
+  opacity: 0.08;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  color: #FE5F55;
+}
+
+/* Rectangle: */
+background-image: radial-gradient(50% 155%, #EEF5DB 54%, #7A9E9F 100%);
+
+/* Rectangle 2: */
+background: #4F6367;
+border: 1px solid #FE5F55;
+border-radius: 21px;
+/* Rectangle 3: */
+background: #7A9E9F;
+border: 1px solid #FE5F55;
+border-radius: 7px;
+/* Rectangle 3: */
+background: #7A9E9F;
+border: 1px solid #FE5F55;
+border-radius: 7px;
+/* Rectangle 3: */
+background: #7A9E9F;
+border: 1px solid #FE5F55;
+border-radius: 7px;
+/* Rectangle 3: */
+background: #7A9E9F;
+border: 1px solid #FE5F55;
+border-radius: 7px;
+/* Rectangle 3: */
+background: #7A9E9F;
+border: 1px solid #FE5F55;
+border-radius: 7px;
+/* Rectangle 3: */
+background: #7A9E9F;
+border: 1px solid #FE5F55;
+border-radius: 7px;
+/* Rectangle 3: */
+background: #7A9E9F;
+border: 1px solid #FE5F55;
+border-radius: 7px;
+/* S: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* M: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* T: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* W: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* T: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* F: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* S: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* H stle: */
+font-family: Arial-BoldMT;
+font-size: 43px;
+color: #FE5F55;
+letter-spacing: 1.18px;
+/* U: */
+background: #FE5F55;
+/* Line: */
+background: #FE5F55;
+border: 1px solid #FE5F55;
+/* Line: */
+background: #FE5F55;
+border: 1px solid #FE5F55;
+/* - Run: 2.5 miles: */
+font-family: Arial-BoldMT;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 0.55px;
+/* - Run: 500 miles: */
+font-family: Arial-BoldMT;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 0.55px;
+/* - Swim: 30 minutes: */
+font-family: Arial-BoldMT;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 0.55px;
+/* Recent Hustles: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* Line: */
+opacity: 0.33;
+border: 2px solid #FE5F55;
+/* Rectangle 6: */
+background: #FE5F55;
+border-radius: 38px;
+/* Rectangle 6: */
+transform: rotate(90deg);
+background: #FE5F55;
+border-radius: 38px;
+/* - Run: 2.5 miles: */
+font-family: Arial-BoldMT;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 0.55px;
+/* - Run: 2.5 miles: */
+font-family: Arial-BoldMT;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 0.55px;
+/* - Run: 2.5 miles: */
+font-family: Arial-BoldMT;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 0.55px;
+/* Future Hustles: */
+font-family: Arial-BoldMT;
+font-size: 28px;
+color: #FFFFFF;
+letter-spacing: 0.77px;
+/* Line: */
+opacity: 0.33;
+border: 2px solid #FE5F55;
+/* Rectangle 6: */
+background: #FE5F55;
+border-radius: 38px;
+/* Rectangle 6: */
+transform: rotate(90deg);
+background: #FE5F55;
+border-radius: 38px;
+/* Rectangle 4: */
+background: #FE5F55;
+border-radius: 7px;
+/* Rectangle 4: */
+background: #FE5F55;
+border-radius: 7px;
+/* Rectangle 4: */
+background: #FE5F55;
+border-radius: 7px;
