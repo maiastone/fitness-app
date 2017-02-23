@@ -128,7 +128,12 @@ span {
   .day {
     visibility: hidden;
   }
-  .ul-container {
-    width: 50%;
+  .ul-container, .char-container {
+    width: 40%;
+    display: inline-block;
+  }
+
+  .canoe, .swim, .run {
+    color: #FE5F55;
   }
 }
