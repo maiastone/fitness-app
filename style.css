@@ -107,26 +107,38 @@ span {
 }
 
 #pie {
-  visibility: hidden;
+  display: none;
   float: right;
   margin: 50px;
 }
 
+.canoe, .swim, .run {
+  display: none;
+}
+
+.breakdown {
+  display: none;
+}
+
+.char-container {
+  display: none;
+}
+
 @media (min-width: 600px) {
 
-#pie {
-  visibility: visible;
+#pie, .breakdown {
+  display:inline-block;
 }
 
   .calendar-container {
-  visibility: hidden;
+  display: none;
   }
   .calendar{
-  visibility: hidden;
+  display: none;
   }
 
   .day {
-    visibility: hidden;
+    display: none;
   }
   .ul-container, .char-container {
     width: 40%;
@@ -135,5 +147,6 @@ span {
 
   .canoe, .swim, .run {
     color: #FE5F55;
+    display: block;
   }
 }
