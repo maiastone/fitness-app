@@ -105,3 +105,30 @@ span {
 #track-runner {
   opacity: 0.08;
 }
+
+#pie {
+  visibility: hidden;
+  float: right;
+  margin: 50px;
+}
+
+@media (min-width: 600px) {
+
+#pie {
+  visibility: visible;
+}
+
+  .calendar-container {
+  visibility: hidden;
+  }
+  .calendar{
+  visibility: hidden;
+  }
+
+  .day {
+    visibility: hidden;
+  }
+  .ul-container {
+    width: 50%;
+  }
+}
